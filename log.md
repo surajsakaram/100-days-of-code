@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 5, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Discussed with Harsha the goals for this challenge, a potential collaboration on a data science project, and why do this challenge. I will start this challenge on January 9th, 2020.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Complacency is the kiss of death. I feel I've become complacement in my learning process -- splashing around in shallow waters instead of diving deep. Through this challenge, I seek to attack all the things that most frustrate me and make me feel less than capable. No more copy and paste from stackoverflow (or at least significantly cut back). It will be I who answers stackoverflow questions. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: January 9th, 2020
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: If unchecked, plotting will be the death of me. Thus, I chose to get on with it by going through this ggplot2 Tutorial (http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html) and learn about the ins and outs of one of the most useful R plotting packages out there.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Once I master ggplot, I will only ever communicate in plots.
