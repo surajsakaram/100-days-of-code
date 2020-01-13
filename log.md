@@ -19,3 +19,17 @@
 It's hard to visualize but ultimately you could take for example a 1000 feature dataset and represent it in 2 or 3 principal components aka a 2D or 3D plot. Why you ask? To check for any patterns in the data such as how do the data points cluster? Does my data cluster based on attributes that's otherwise known but not inherently provided in the data? Are there any hidden patterns that are unexpected? 
 
 **Thoughts**: Although the code to create pca plots is rather simple (it can get tricky fast the more fancy you want to make your plots), massaging your data into the right input structure makes up the bulk of the work, certainly reinforcing all the claims you may have seen in various media that data munging is in fact one of things data scientist spend most of their time doing.
+
+### Day 3: January 11th, 2020
+
+**Today's Progress**: Continued to hack away at various ggplot functionalities and messing around with how to generate more intricate plots. 
+
+**Thoughts**:
+
+### Day 4: January 12th, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+
