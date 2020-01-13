@@ -28,8 +28,10 @@ It's hard to visualize but ultimately you could take for example a 1000 feature 
 
 ### Day 4: January 12th, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked on building functions for creating multiple plots en masse given a standardized input data structure
 
-**Thoughts**:
+**Thoughts**: Remembering the nuanced options and parameters for creating the layout and look for a figure is tricky thus simplying the process using a function makes things more efficient. 
+
+
 
 
